@@ -1,5 +1,4 @@
 # FlowerPattern
-Interesting flower pattern created with the Golden Angle using R (ggplot2)
 
 I created some interesting flower patterns using R.
 
